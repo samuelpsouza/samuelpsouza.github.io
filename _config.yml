@@ -28,7 +28,7 @@ remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
   name: Samuel Souza
-  tagline: Developer
+  tagline: Software Developer
   date_format: "%b %-d, %Y"
 
   dark_mode: true
