@@ -46,8 +46,8 @@ theme: plainwhite
 plugins:
   - jekyll-feed
 
-  gems:
-- jekyll-seo-tag
+gems:
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
