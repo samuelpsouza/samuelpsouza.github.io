@@ -34,6 +34,7 @@ plainwhite:
   dark_mode: true
   portfolio_image:  "assets/portfolio.jpeg"
   html_lang: "en"
+  search: true
 
   social_links:
     twitter: _samuelpsouza
