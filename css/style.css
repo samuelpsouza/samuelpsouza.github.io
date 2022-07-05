@@ -4,10 +4,23 @@ body {
     position: relative;
     height: auto;
     min-height: 100%;
+    font-size: 1rem;
+    line-height: 1.6;
 }
 
 section {
     background-color: #494399;
     color: #ffffff;
     text-align: center;
+}
+
+footer {
+    background-color: #333333;
+    color: white;
+    background-image: none;
+    text-align: center;
+}
+
+body, header, section, footer {
+    position: relative;
 }
