@@ -8,10 +8,23 @@ body {
     line-height: 1.6;
 }
 
-section {
-    background-color: #494399;
+.main-section {
+    background-color: #2CCCC4;
     color: #ffffff;
     text-align: center;
+}
+
+img {
+    width: 25%;
+}
+
+.child-elem {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.child-elem img {
+    
 }
 
 footer {
@@ -19,8 +32,19 @@ footer {
     color: white;
     background-image: none;
     text-align: center;
+    min-height: 98px;
 }
 
-body, header, section, footer {
+footer div p {
+    margin: 0;
+    vertical-align: bottom;
+    position: relative;
+    padding: 2em;
+}
+
+body,
+header,
+section,
+footer {
     position: relative;
 }
