@@ -45,7 +45,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://samuelpsouza.github.io"
 
 # --- Logo --- #
 
@@ -68,21 +68,21 @@ round-avatar: true
 social-network-links:
   email: "samuelsouza.contact@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
-  #github: daattali
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+  #facebook: ssouza
+  #github: ssouza
+  #twitter: ssouza
+  #patreon: ssouza
+  #youtube: ssouza
+#  medium: ssouza
+#  reddit: ssouza
+#  linkedin: ssouza
+#  xing: ssouza
+#  stackoverflow: "ssouza"
+#  snapchat: ssouza
+#  instagram: ssouza
+#  spotify: ssouza
+#  telephone: +559999999-9999
+#  steam: ssouza
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -109,7 +109,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "samuelsouza.github.io"
+url-pretty: "samuelpsouza.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
