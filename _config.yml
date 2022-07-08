@@ -32,7 +32,8 @@ url: "https://samuelpsouza.github.io" # the base hostname & protocol for your si
 #github_username:  samuelpsouza
 
 # Build settings
-theme: beautiful-jekyll-theme
+#theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
