@@ -16,9 +16,9 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-          JEKYLL_ENV: production
       - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          JEKYLL_ENV: production
