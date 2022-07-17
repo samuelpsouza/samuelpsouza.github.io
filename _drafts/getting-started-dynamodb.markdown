@@ -13,6 +13,7 @@ A escolha de uma nova stack geralemte é feita considerando que trará um desemp
 
 ## Projeto
 
+
 Nessa demonstração construiremos uma aplicação para manter o hanking de avaliações de livros. Cada registro será composto do nome do livro, o autor e a avaliação.
 
 | Título   |      Autor      |  Avaliação |
@@ -21,9 +22,13 @@ Nessa demonstração construiremos uma aplicação para manter o hanking de aval
 | A morte de Artur |    Thomas Malory   |   9 |
 
 
+### Dependências
+
 ```kotlin
 implementation("software.amazon.awssdk:dynamodb:2.17.209"
 ```
+
+### Código
 
 ```kotlin
 data class Book(val title: String, 
