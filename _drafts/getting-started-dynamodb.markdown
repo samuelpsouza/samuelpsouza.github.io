@@ -19,3 +19,11 @@ Nessa demonstração criaremos uma aplicação para manter o hanking de avaliaç
 implementation("software.amazon.awssdk:dynamodb:2.17.209"
 ```
 
+```kotlin
+data class Book(val title: String, 
+                val author: String, 
+                val rating: Number)
+```
+
+```kotlin
+```
