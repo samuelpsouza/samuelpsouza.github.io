@@ -63,10 +63,7 @@ navbar-links:
 #title-img: /path/to/image
 
 defaults:
-  # _posts
   - scope:
-      path: ""
-      type: posts
     values:
       author_profile: true
 
