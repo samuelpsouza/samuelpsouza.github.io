@@ -32,8 +32,9 @@ url: "https://samuelpsouza.github.io" # the base hostname & protocol for your si
 #github_username:  samuelpsouza
 
 # Build settings
-#theme: beautiful-jekyll-theme
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
