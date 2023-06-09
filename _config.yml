@@ -40,6 +40,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
+include: ["_pages"]
 # --- List of links in the navigation bar --- #
 
 navbar-links:
