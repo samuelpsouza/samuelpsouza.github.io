@@ -63,12 +63,15 @@ navbar-links:
 #title-img: /path/to/image
 
 defaults:
+  # _posts
   - scope:
+      path: ""
+      type: posts
     values:
       author_profile: true
 
 author:
-  name: "Your Name"
+  name: "Samuel Souza"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Somewhere"
@@ -93,10 +96,10 @@ social-network-links:
   email: "samuelsouza.contact@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: ssouza
-  #github: ssouza
+  github: ssouza
   #twitter: ssouza
-  #patreon: ssouza
-  #youtube: ssouza
+  patreon: ssouza
+  youtube: ssouza
 #  medium: ssouza
 #  reddit: ssouza
 #  linkedin: ssouza
