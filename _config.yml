@@ -36,12 +36,12 @@ search: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "samuelsouza.contact@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: ssouza
-  github: ssouza
+  #github: true
   #twitter: ssouza
-  patreon: ssouza
-  youtube: ssouza
+  #patreon: ssouza
+  #youtube: ssouza
 #  medium: ssouza
 #  reddit: ssouza
 #  linkedin: ssouza
@@ -65,15 +65,15 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  #twitter: true
   #facebook: true
-  #linkedin: true
+  linkedin: true
   #vk: false
 
 # How to display the link to your website in the footer
