@@ -38,13 +38,13 @@ social-network-links:
   email: "samuelsouza.contact@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: ssouza
-  #github: true
+  github: true
   #twitter: ssouza
   #patreon: ssouza
   #youtube: ssouza
 #  medium: ssouza
 #  reddit: ssouza
-#  linkedin: ssouza
+  linkedin: ssouza
 #  xing: ssouza
 #  stackoverflow: "ssouza"
 #  snapchat: ssouza
@@ -71,7 +71,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  #twitter: true
+  twitter: true
   #facebook: true
   linkedin: true
   #vk: false
@@ -163,7 +163,7 @@ footer-hover-col: "#0085A1"
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5754063945728000-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
