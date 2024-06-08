@@ -27,4 +27,4 @@ Here are the points of the cycle listed in the book:
 
 Before that you should have a list of test cases and increment it while you continue to implement the tests and the code to pass them.
 
-Thanks again for reading. Comment below to coif you find any error, agree or desagree with what I have written.
+Thanks again for reading. If you find any error, agree or desagree with what I have written, please let me know.
