@@ -1,9 +1,5 @@
 main:
   - title: "Home"
     url: /
-  - title: "Me"
-    url: /me/
   - title: "Reading"
     url: /reading/
-  - title: "Hobbies"
-    url: /hobbies/
