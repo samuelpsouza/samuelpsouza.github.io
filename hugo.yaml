@@ -1,0 +1,8 @@
+baseURL: https://blog.ssouza.dev/
+disablePathToLower: true
+languageCode: en-us
+title: Personal Blog
+theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images

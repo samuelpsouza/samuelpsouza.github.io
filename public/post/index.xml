@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Personal Blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Personal Blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Driven Development</title>
+      <link>http://localhost:1313/post/samuelpsouza.github.io/2024-06-08-tdd/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/samuelpsouza.github.io/2024-06-08-tdd/</guid>
+      <description>&lt;p&gt;Hi there, thanks for reading my first post. Since I decided to write in order to improve my understanding of Software Development, and of course, share it with whoever is interested in this area, I could find a perfect subject that I could write about and people also would enjoy it.&lt;/p&gt;
+&lt;p&gt;The idea of writing about Test Driven Development (TDD) came after talking to my manager about tests in general. After the conversation moved towards TDD, he asked me the following question: &amp;ldquo;In TDD, should we implemented all tests before their passing code or individual ones before their passing code?&amp;rdquo;. My understanding of TDD before this question was based on informal discussion and TLDR posts. I couldn&amp;rsquo;t answer him for sure based strong literature references.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

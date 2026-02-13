@@ -1,5 +1,6 @@
 ---
-title:  "Test Driven Development"
+date: '2024-06-08T00:00:00Z'
+title: Test Driven Development
 ---
 
 Hi there, thanks for reading my first post. Since I decided to write in order to improve my understanding of Software Development, and of course, share it with whoever is interested in this area, I could find a perfect subject that I could write about and people also would enjoy it.
